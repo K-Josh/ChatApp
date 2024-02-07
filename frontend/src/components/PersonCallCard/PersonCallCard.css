@@ -1,0 +1,23 @@
+@media screen and (max-width: 490px) {
+    body{
+        background-color: black;
+    }
+
+    .person_call_card {
+        padding: 15px;
+        border: 3px solid cyan;
+        border-radius: 10px;
+        width: 150px;
+        text-align: center;
+        color: white;
+        position: relative;
+        display: inline-block;
+        margin: 10px;
+    }
+
+    .material-symbols-outlined {
+        position: absolute;
+        right: 10px;
+        bottom: 10px;
+    }
+}
